@@ -1,0 +1,20 @@
+{
+  "name": "h-g-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Superbrain8",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-light": "^3.5.0",
+    "dotenv": "^8.2.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.11.14",
+    "mongoose-redis": "^1.1.1",
+    "node-fetch": "^2.6.1"
+  }
+}
