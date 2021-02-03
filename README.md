@@ -1,0 +1,2 @@
+# Heroes and Generals Bot
+ 
